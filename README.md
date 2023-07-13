@@ -12,3 +12,5 @@
 
 ## Note
 User need to install PYDUB properly from the website else error message will be triggered.
+
+Since it uses only google recognizer it only converts 1 minute audio only. User can choose API inorder to work with more minutes or custom models.
